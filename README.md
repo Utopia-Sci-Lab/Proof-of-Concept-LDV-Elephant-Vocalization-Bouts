@@ -1,6 +1,6 @@
 # Proof-of-Concept-LDV-Elephant-Vocalization-Bouts
 
-Recording and text file of a rumble vocalization produced by female African elephant, Maggie at PAWS Sanctuary in Galt, CA USA. This vocalization was recorded and analyzed for a proof of concept study that explored the use of laser Doppler vibrometry to identify individual vocalizations of a single elephant within a group of three elephants. 
+Recording of a rumble vocalization produced by female African elephant, Maggie at PAWS Sanctuary in Galt, CA USA. This vocalization was recorded and analyzed for a proof of concept study that explored the use of laser Doppler vibrometry to identify individual vocalizations of a single elephant within a group of three elephants.
 
 The study, entitled "Who is calling: Proof of concept for the use of laser Doppler vibrometry in identifying individual callers within African elephant vocalization bouts" was recently accepted for publication in Springer Nature's The European Physical Journal Special Topics: Physics of Animal Navigation.
 View the article here: [to be added upon final publication]
